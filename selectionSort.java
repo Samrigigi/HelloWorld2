@@ -1,4 +1,4 @@
-// Java program for implementation of Selection Sort 
+// YERGUWAY LEBAM 
 class SelectionSort 
 { 
 	void sort(int arr[]) 
